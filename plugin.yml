@@ -1,0 +1,9 @@
+name: OnlineATM
+author: TeraCube
+version: 1.0.0
+api: 3.0.0
+main: atm\Main
+commands:
+  atm:
+    description: "Jouez, et gagnez de l'argent !"
+    usage: /atm

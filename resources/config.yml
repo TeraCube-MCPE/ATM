@@ -1,0 +1,13 @@
+---
+#Menu :
+titre: "TeraCube - ATM "
+
+text1: "ATM : Gagnez de l'argent en restant simplement sur le serveur!"
+text2: "Cliquez sur le boutton pour récupéré votre argent."
+textArgent: "Argent à récupéré : "
+boutton: "Récupéré"
+
+#Argent
+temps: "2"    #Temps en minute
+montant: "1"    #argent gagner
+...
